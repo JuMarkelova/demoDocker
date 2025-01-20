@@ -1,3 +1,12 @@
+week 27
+
+<img width="1662" alt="scr1" src="https://github.com/user-attachments/assets/d51d439b-4874-4cb2-8950-a69a26be421e" />
+
+<img width="554" alt="scr3" src="https://github.com/user-attachments/assets/b05d8ae9-d6a6-4702-9ac3-8da21630c157" />
+
+<img width="872" alt="scr2" src="https://github.com/user-attachments/assets/50395a59-55a2-47bb-a5b5-dbc136a004fd" />
+
+
 week 26 
 
 <img width="1682" alt="Screenshot 2025-01-05 at 16 37 11" src="https://github.com/user-attachments/assets/5bc18246-fbae-4c7e-ac38-0bd24c06cbb8" />
