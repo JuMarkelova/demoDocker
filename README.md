@@ -1,4 +1,4 @@
-<span style="color: red; font-weight: bold;">week 28</span>
+<strong>week 28</strong>
 
 <img width="1361" alt="scr1" src="https://github.com/user-attachments/assets/90ea7254-ac20-4c61-9139-81415692e118" />
 
@@ -7,7 +7,7 @@
 <img width="1663" alt="scr3" src="https://github.com/user-attachments/assets/9758b01b-c747-4246-a9eb-35daa63ada31" />
 
 
-week 27
+<strong>week 27</strong>
 
 <img width="1662" alt="scr1" src="https://github.com/user-attachments/assets/d51d439b-4874-4cb2-8950-a69a26be421e" />
 
@@ -15,13 +15,13 @@ week 27
 
 <img width="872" alt="scr2" src="https://github.com/user-attachments/assets/50395a59-55a2-47bb-a5b5-dbc136a004fd" />
 
-week 26 
+<strong>week 26</strong>
 
 <img width="1682" alt="Screenshot 2025-01-05 at 16 37 11" src="https://github.com/user-attachments/assets/5bc18246-fbae-4c7e-ac38-0bd24c06cbb8" />
 
 <img width="694" alt="Screenshot 2025-01-05 at 16 36 49" src="https://github.com/user-attachments/assets/1683e308-bc21-4c05-b9bf-ae181c7be976" />
 
-week 25
+<strong>week 25</strong>
 
 <img width="587" alt="Screenshot 2024-12-25 at 15 53 06" src="https://github.com/user-attachments/assets/a349fc11-7008-4ea2-ae6c-ed90667e4c7f" />
 
