@@ -1,4 +1,4 @@
-<strong style="color: red;">week 28</strong>
+<span style="color: red; font-weight: bold;">week 28</span>
 
 <img width="1361" alt="scr1" src="https://github.com/user-attachments/assets/90ea7254-ac20-4c61-9139-81415692e118" />
 
